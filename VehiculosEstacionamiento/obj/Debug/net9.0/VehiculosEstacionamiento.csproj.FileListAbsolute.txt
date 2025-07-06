@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\bin\Debug\net9.0\VehiculosEstacionamiento.exe
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\bin\Debug\net9.0\VehiculosEstacionamiento.deps.json
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\bin\Debug\net9.0\VehiculosEstacionamiento.runtimeconfig.json
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\bin\Debug\net9.0\VehiculosEstacionamiento.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\bin\Debug\net9.0\VehiculosEstacionamiento.pdb
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\VehiculosEstacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\VehiculosEstacionamiento.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\VehiculosEstacionamiento.AssemblyInfo.cs
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\VehiculosEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\VehiculosEstacionamiento.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\refint\VehiculosEstacionamiento.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\VehiculosEstacionamiento.pdb
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\VehiculosEstacionamiento.genruntimeconfig.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\VehiculosEstacionamiento\obj\Debug\net9.0\ref\VehiculosEstacionamiento.dll

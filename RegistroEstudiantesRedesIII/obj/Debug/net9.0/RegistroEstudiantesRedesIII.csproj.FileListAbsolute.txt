@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\bin\Debug\net9.0\RegistroEstudiantesRedesIII.exe
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\bin\Debug\net9.0\RegistroEstudiantesRedesIII.deps.json
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\bin\Debug\net9.0\RegistroEstudiantesRedesIII.runtimeconfig.json
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\bin\Debug\net9.0\RegistroEstudiantesRedesIII.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\bin\Debug\net9.0\RegistroEstudiantesRedesIII.pdb
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\RegistroEstudiantesRedesIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\RegistroEstudiantesRedesIII.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\RegistroEstudiantesRedesIII.AssemblyInfo.cs
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\RegistroEstudiantesRedesIII.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\RegistroEstudiantesRedesIII.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\refint\RegistroEstudiantesRedesIII.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\RegistroEstudiantesRedesIII.pdb
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\RegistroEstudiantesRedesIII.genruntimeconfig.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana6\RegistroEstudiantesRedesIII\obj\Debug\net9.0\ref\RegistroEstudiantesRedesIII.dll
